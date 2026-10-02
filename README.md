@@ -4,7 +4,7 @@ Classifies US Supreme Court opinions into 15 issue areas (e.g. Criminal Procedur
 Civil Rights, Privacy, Economic Activity), based on the project "Classification of
 Legal Text" (Iyer).
 
-Team: <Aakash Agarwal>, <Aaruni Choudhary>
+Team: Aakash Agarwal, Aaruni Choudhary
 
 ## Dataset
 Supreme Court Database via the `textacy` package (~8,400 opinions with expert-assigned
