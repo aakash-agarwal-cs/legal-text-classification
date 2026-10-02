@@ -1,0 +1,4 @@
+model,accuracy,macro_f1
+TF-IDF + LR,0.777,0.738
+LDA (50 topics) + LR,0.6,0.504
+Doc2Vec (100d) + LR,0.634,0.521

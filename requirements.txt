@@ -1,0 +1,5 @@
+textacy
+scikit-learn
+pandas
+gensim
+numpy
